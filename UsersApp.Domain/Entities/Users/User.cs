@@ -3,7 +3,6 @@ using System.Xml.Linq;
 using UsersApp.Domain.Common.Model;
 using UsersApp.Domain.Common.Validation;
 using UsersApp.Domain.Common.Validation.ValidationItems;
-using UsersApp.Domain.Services;
 using ValidationResult = UsersApp.Domain.Common.Validation.ValidationResult;
 
 namespace UsersApp.Domain.Entities.Users
@@ -64,7 +63,7 @@ namespace UsersApp.Domain.Entities.Users
             if (string.IsNullOrWhiteSpace(Name))
                 result.AddValidationItem(ValidationItems.User.NameRequired);
 
-            if (Name?.Length > NameMaxLength)
+            if (Name.Length > NameMaxLength)
                 result.AddValidationItem(ValidationItems.User.NameLength);
 
             if (string.IsNullOrWhiteSpace(Username))

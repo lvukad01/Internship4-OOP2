@@ -1,5 +1,4 @@
 ﻿
-using UsersApp.Domain.Common.Model;
 
 namespace UsersApp.Domain.Common.Validation.ValidationItems
 {
