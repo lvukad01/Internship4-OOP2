@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.domain\\usersapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\usersapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Entities\\Users\\User.cs",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\Entities\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Entities\\Users\\User.cs",
+              "RelativeToolTip": "UsersApp.Domain\\Entities\\Users\\User.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:43:16.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersApp.Domain",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\UsersApp.Domain.csproj",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\UsersApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\UsersApp.Domain.csproj",
+              "RelativeToolTip": "UsersApp.Domain\\UsersApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T13:42:07.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
