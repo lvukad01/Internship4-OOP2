@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="UsersApp.Domain/UsersApp.Domain.csproj" Id="6ec3e2d9-343c-4fce-8863-1dcc4c9f19e8" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
