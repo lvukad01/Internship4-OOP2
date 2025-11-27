@@ -12,7 +12,7 @@ namespace UsersApp.Application.Interfaces
         Task DeleteAsync(int id);
 
         Task<bool> NameExistsAsync(string name);
-
+        Task<Company?> GetByNameAsync(string name);
         Task<Company?> GetByIdWithAuthAsync(int id, string username, string password);
         Task<IEnumerable<Company>> GetAllWithAuthAsync(string username, string password);
     }

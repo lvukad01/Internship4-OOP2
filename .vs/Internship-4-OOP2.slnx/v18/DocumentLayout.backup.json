@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\dtos\\companies\\updatecompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\dtos\\companies\\updatecompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\dtos\\companies\\companyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\dtos\\companies\\companyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\dtos\\companies\\createcompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\dtos\\companies\\createcompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\dtos\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\dtos\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\dtos\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\dtos\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\dtos\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\dtos\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\usecases\\users\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\users\\createuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.application\\usersapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usersapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.domain\\usersapp.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\usersapp.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -13,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.domain\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4-oop2\\usersapp.domain\\entities\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,23 +106,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs*",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:49:20.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UpdateCompanyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs*",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:49:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCompanyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Companies\\CreateCompanyRequest.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\CreateCompanyRequest.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Companies\\CreateCompanyRequest.cs*",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Companies\\CreateCompanyRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:47:28.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:48:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Users\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Users\\UpdateUserRequest.cs",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Users\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:47:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Users\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\DTOs\\Users\\CreateUserRequest.cs*",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Users\\CreateUserRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:45:37.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\CreateUserUseCase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:37:12.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:08:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "UsersApp.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:08:10.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\UsersApp.Application.csproj",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UsersApp.Application.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Application\\UsersApp.Application.csproj",
+              "RelativeToolTip": "UsersApp.Application\\UsersApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T11:57:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UsersApp.Domain",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\UsersApp.Domain.csproj",
               "RelativeDocumentMoniker": "UsersApp.Domain\\UsersApp.Domain.csproj",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\UsersApp.Domain.csproj",
               "RelativeToolTip": "UsersApp.Domain\\UsersApp.Domain.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T11:46:30.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T11:46:30.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "ICompanyRepository.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
@@ -90,25 +257,23 @@
               "RelativeToolTip": "UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:27:52.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T11:27:52.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Repositories\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Repositories\\IUserRepository.cs",
               "RelativeToolTip": "UsersApp.Domain\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:27:40.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T11:27:40.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Entities\\Companies\\Company.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Entities\\Companies\\Company.cs",
@@ -116,12 +281,11 @@
               "RelativeToolTip": "UsersApp.Domain\\Entities\\Companies\\Company.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:07:57.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T18:07:57.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "ValidationItems.User.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
@@ -129,12 +293,11 @@
               "RelativeToolTip": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:22:13.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:22:13.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Entities\\Users\\User.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Entities\\Users\\User.cs",
@@ -146,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "DomainService.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Services\\DomainService.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Services\\DomainService.cs",
@@ -154,12 +317,11 @@
               "RelativeToolTip": "UsersApp.Domain\\Services\\DomainService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:18:31.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:18:31.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "UsersApp.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\UsersApp.Domain.csproj",
               "RelativeDocumentMoniker": "UsersApp.Domain\\UsersApp.Domain.csproj",
@@ -167,12 +329,11 @@
               "RelativeToolTip": "UsersApp.Domain\\UsersApp.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T13:42:07.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T13:42:07.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "ValidationItem.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Common\\Validation\\ValidationItem.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItem.cs",
@@ -184,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "ValidationItems.Company.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
@@ -192,12 +353,11 @@
               "RelativeToolTip": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:19:20.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T18:19:20.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Common\\Model\\Result.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Model\\Result.cs",
@@ -205,12 +365,11 @@
               "RelativeToolTip": "UsersApp.Domain\\Common\\Model\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:57:12.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T13:57:12.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "ValidationType.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Common\\Validation\\ValidationType.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationType.cs",
@@ -222,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "ValidationSeverity.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Common\\Validation\\ValidationSeverity.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationSeverity.cs",
@@ -234,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "ValidationResult.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Domain\\Common\\Validation\\ValidationResult.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationResult.cs",

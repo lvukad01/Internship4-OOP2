@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Xml.Linq;
-using UsersApp.Domain.Common.Model;
-using UsersApp.Domain.Common.Validation;
+﻿
 using UsersApp.Domain.Common.Validation.ValidationItems;
 using ValidationResult = UsersApp.Domain.Common.Validation.ValidationResult;
 
@@ -56,6 +53,19 @@ namespace UsersApp.Domain.Entities.Users
                 UpdatedAt = DateTime.Now; 
             } 
         }
+        public void Update(string name, string username, string email, string addressStreet, string addressCity, decimal geoLat, decimal geoLng, string? website)
+        {
+            Name = name;
+            Username = username;
+            Email = email;
+            AddressStreet = addressStreet;
+            AddressCity = addressCity;
+            GeoLat = geoLat;
+            GeoLng = geoLng;
+            Website = website;
+            UpdatedAt = DateTime.Now;
+        }
+
         public ValidationResult Validate()
         {
             var result = new ValidationResult();
