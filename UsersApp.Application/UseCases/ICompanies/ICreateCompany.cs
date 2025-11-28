@@ -1,10 +1,11 @@
 ﻿
 using UsersApp.Application.DTOs.Companies;
+using UsersApp.Domain.Common.Model;
 
 namespace UsersApp.Application.UseCases.ICompanies
 {
     public interface ICreateCompany
     {
-        Task<CompanyResponse> ExecuteAsync(CreateCompanyRequest request);
+        Task<Result<CompanyResponse>> ExecuteAsync(CreateCompanyRequest request);
     }
 }

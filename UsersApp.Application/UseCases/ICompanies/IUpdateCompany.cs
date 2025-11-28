@@ -1,10 +1,11 @@
 ﻿
 using UsersApp.Application.DTOs.Companies;
+using UsersApp.Domain.Common.Model;
 
 namespace UsersApp.Application.UseCases.ICompanies
 {
     public interface IUpdateCompany
     {
-        Task<CompanyResponse> ExecuteAsync(UpdateCompanyRequest request, int id);
+        Task<Result<CompanyResponse>> ExecuteAsync(UpdateCompanyRequest request, int id);
     }
 }

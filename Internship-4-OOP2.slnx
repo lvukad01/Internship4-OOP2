@@ -4,4 +4,5 @@
     <Project Path="UsersApp.Domain/UsersApp.Domain.csproj" Id="6ec3e2d9-343c-4fce-8863-1dcc4c9f19e8" />
   </Folder>
   <Folder Name="/test/" />
+  <Project Path="UsersApp.Infrastructure/UsersApp.Infrastructure.csproj" Id="18b20263-3530-44fb-abe4-7ab827a2eae3" />
 </Solution>
