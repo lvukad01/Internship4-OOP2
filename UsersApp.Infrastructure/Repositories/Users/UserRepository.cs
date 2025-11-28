@@ -61,10 +61,14 @@ namespace UsersApp.Infrastructure.Repositories.Users
             await _dbContext.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(User user)
+        public async Task DeleteAsync(int id)
         {
-            _dbContext.Users.Remove(user);
-            await _dbContext.SaveChangesAsync();
+            var user = await _dbContext.Users.FindAsync(id);
+            if (user != null)
+            {
+                _dbContext.Users.Remove(user);
+                await _dbContext.SaveChangesAsync();
+            }
         }
 
     }

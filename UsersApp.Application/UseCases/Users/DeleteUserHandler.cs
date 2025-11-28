@@ -17,7 +17,7 @@ namespace UsersApp.Application.UseCases.Users
             if (user == null)
                 throw new Exception($"Korisnik s ID {userId} ne postoji.");
 
-            await _userRepository.DeleteAsync(user);
+            await _userRepository.DeleteAsync(userId);
         }
     }
 }

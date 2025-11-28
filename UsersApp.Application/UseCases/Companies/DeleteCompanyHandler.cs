@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UsersApp.Application.UseCases.ICompanies;
 using UsersApp.Domain.Common.Model;
 using UsersApp.Domain.Common.Validation;
 using UsersApp.Domain.Repositories;
 
 namespace UsersApp.Application.UseCases.Companies
 {
-    public class DeleteCompanyHandler
+    public class DeleteCompanyHandler : IDeleteCompany
     {
         private readonly ICompanyRepository _companyRepository;
 

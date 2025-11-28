@@ -11,7 +11,7 @@ namespace UsersApp.Domain.Repositories
         Task<bool> EmailExistsAsync(string email);
         Task<bool> UsernameExistsAsync(string username);
         Task AddAsync(User user);
-        Task DeleteAsync(User user);
+        Task DeleteAsync(int id);
         Task UpdateAsync(User user);
     }
 }

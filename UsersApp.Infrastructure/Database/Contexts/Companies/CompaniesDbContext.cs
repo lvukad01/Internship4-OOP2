@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using UsersApp.Domain.Entities.Companies;
 using UsersApp.Infrastructure.Database.Configurations;
-using UsersApp.Infrastructure.Database.Configurations.Users;
+
 
 namespace UsersApp.Infrastructure.Database.Contexts.Companies
 {
@@ -17,7 +17,7 @@ namespace UsersApp.Infrastructure.Database.Contexts.Companies
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasDefaultSchema(Shemas.Default);
-            modelBuilder.ApplyConfiguration(new CompanyConfiguration());
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(CompaniesDbContext).Assembly);
             base.OnModelCreating(modelBuilder);
 
         }

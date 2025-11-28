@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Database\Configurations\Common\Companies\" />
+    <Folder Include="Database\Configurations\Common\" />
   </ItemGroup>
 
 </Project>

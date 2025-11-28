@@ -6,12 +6,12 @@ using UsersApp.Domain.Repositories;
 
 namespace UsersApp.Application.UseCases.Companies
 {
-    public class GetAllCompanies : IGetAllCompanies
+    public class GetAllCompaniesHandler : IGetAllCompanies
     {
         private readonly ICompanyRepository _companyRepository;
         private readonly IUserRepository _userRepository;
 
-        public GetAllCompanies(ICompanyRepository companyRepository, IUserRepository userRepository)
+        public GetAllCompaniesHandler(ICompanyRepository companyRepository, IUserRepository userRepository)
         {
             _companyRepository = companyRepository;
             _userRepository = userRepository;

@@ -4,7 +4,7 @@ using UsersApp.Domain.Repositories;
 
 namespace UsersApp.Application.UseCases.Users
 {
-    public class DeactivateUserHandler : IActivateUser
+    public class DeactivateUserHandler : IDeactivateUser
     {
         private readonly IUserRepository _userRepository;
 

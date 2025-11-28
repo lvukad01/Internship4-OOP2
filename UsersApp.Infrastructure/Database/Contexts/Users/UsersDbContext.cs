@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using UsersApp.Domain.Entities.Users;
 using UsersApp.Infrastructure.Database.Configurations;
-using UsersApp.Infrastructure.Database.Configurations.Users;
 
 namespace UsersApp.Infrastructure.Database.Contexts.Users
 {
@@ -17,7 +16,7 @@ namespace UsersApp.Infrastructure.Database.Contexts.Users
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasDefaultSchema(Shemas.Default);
-            modelBuilder.ApplyConfiguration(new UserConfiguration());
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(UsersDbContext).Assembly);
             base.OnModelCreating(modelBuilder);
 
         }
