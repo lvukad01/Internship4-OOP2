@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5feX4m8A7k=",
+  "dgSpecHash": "mFWpQ7YIynA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Korisnik\\source\\repos\\Internship-4-OOP2\\UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Korisnik\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.22\\microsoft.entityframeworkcore.8.0.22.nupkg.sha512",
