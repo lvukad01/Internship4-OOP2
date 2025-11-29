@@ -5,6 +5,6 @@ namespace UsersApp.Application.UseCases.ICompanies
 {
     public interface IDeleteCompany
     {
-        Task<Result<bool>> ExecuteAsync(int id, string username, string password, IUserRepository userRepository);
+        Task<Result<bool>> ExecuteAsync(int id, string username, string password);
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Internship-4\UsersApp.Api\obj\Debug\net8.0\UsersApp.Api.sourcelink.json
