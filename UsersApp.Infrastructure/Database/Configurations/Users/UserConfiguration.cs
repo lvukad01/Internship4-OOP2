@@ -9,7 +9,7 @@ namespace UsersApp.Infrastructure.Database.Configurations.Users
     {
         public void Configure(EntityTypeBuilder<User> builder)
         { 
-            builder.ToTable("Users");
+            builder.ToTable("users");
             builder.HasKey(u => u.Id);
 
             builder.Property(u => u.Name)

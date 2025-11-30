@@ -7,36 +7,96 @@
       "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\usersapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\usersapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\users\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\users\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\companies\\updatecompanyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\companies\\updatecompanyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\icompanies\\iupdatecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\icompanies\\iupdatecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\icompanies\\igetcompanyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\icompanies\\igetcompanyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\companies\\createcompanyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\companies\\createcompanyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\usersapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\usersapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\usersapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\usersapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\configurations\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\configurations\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\configurations\\companies\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\configurations\\companies\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\configurations\\shemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\configurations\\shemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\contexts\\users\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\contexts\\users\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\dapper\\dapperconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\dapper\\dapperconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\external\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\external\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\usersapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\usersapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\usersapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\usersapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\iusers\\iimportusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\iusers\\iimportusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\users\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\users\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\users\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\users\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\users\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\companies\\createcompanyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\companies\\createcompanyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\icompanies\\icreatecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\iusers\\iupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\companies\\getallcompanieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\companies\\getallcompanieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,28 +155,12 @@
       "RelativeMoniker": "D:0:0:{4FC0598D-404B-412E-9942-681D8AA02F9A}|UsersApp.Api\\UsersApp.Api.csproj|solutionrelative:usersapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\di\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\external\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\external\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\users\\importusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\users\\importusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\iusers\\iimportusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\iusers\\iimportusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\icompanies\\igetallcompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\icompanies\\igetallcompanies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\icompanies\\igetcompanyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\icompanies\\igetcompanyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\iusers\\ideactivateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,10 +179,6 @@
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\configurations\\companies\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\configurations\\companies\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usecases\\users\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usecases\\users\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -159,20 +191,8 @@
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\dapper\\dapperconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\dapper\\dapperconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\contexts\\users\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\contexts\\users\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\contexts\\companies\\companiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\contexts\\companies\\companiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\configurations\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\configurations\\users\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\repositories\\companies\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -181,10 +201,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.application\\usersapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{78F9A7DC-A8EC-4780-91CE-C2DC885FE6A0}|UsersApp.Application\\UsersApp.Application.csproj|solutionrelative:usersapp.application\\usersapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\database\\configurations\\shemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\database\\configurations\\shemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.domain\\entities\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -197,10 +213,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.domain\\common\\validation\\validationitems\\validationitems.user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EC3E2D9-343C-4FCE-8863-1DCC4C9F19E8}|UsersApp.Domain\\UsersApp.Domain.csproj|solutionrelative:usersapp.domain\\common\\validation\\validationitems\\validationitems.user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\usersapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|solutionrelative:usersapp.infrastructure\\usersapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18B20263-3530-44FB-ABE4-7AB827A2EAE3}|UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj|c:\\users\\korisnik\\source\\repos\\internship-4\\usersapp.infrastructure\\usersapp.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -290,34 +302,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "UsersApp.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.Development.json",
-              "RelativeToolTip": "UsersApp.Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-30T09:21:02.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAjwDAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:35:24.961Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -326,7 +312,7 @@
               "RelativeDocumentMoniker": "UsersApp.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Program.cs*",
               "RelativeToolTip": "UsersApp.Api\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T10:22:33.99Z",
               "EditorCaption": ""
@@ -334,58 +320,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAABDwEoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:36:55.381Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UsersApp.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UsersApp.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T10:26:32.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsersApp.Api.http",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.http",
-              "RelativeDocumentMoniker": "UsersApp.Api\\UsersApp.Api.http",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.http",
-              "RelativeToolTip": "UsersApp.Api\\UsersApp.Api.http",
+              "DocumentIndex": 4,
+              "Title": "CreateCompanyHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-29T10:19:08.36Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:03:53.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Users\\User.cs",
-              "RelativeDocumentMoniker": "UsersApp.Domain\\Entities\\Users\\User.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Users\\User.cs",
-              "RelativeToolTip": "UsersApp.Domain\\Entities\\Users\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:43:16.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "UpdateCompanyHandler.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\UpdateCompanyHandler.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\UpdateCompanyHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\UpdateCompanyHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\UpdateCompanyHandler.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAzwDsAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\UpdateCompanyHandler.cs*",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\UpdateCompanyHandler.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T09:39:41.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "IUpdateCompany.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IUpdateCompany.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\IUpdateCompany.cs",
@@ -398,285 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "UsersApp.Domain\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "UsersApp.Domain\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:27:40.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeleteUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwBMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:20:40.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DeactivateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:16:40.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateCompanyRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
-              "RelativeToolTip": "UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:49:00.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:37:12.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateCompanyHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\CreateCompanyHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T09:03:53.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICreateCompany.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:30:13.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CompanyResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
-              "RelativeToolTip": "UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:49:20.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
-              "RelativeToolTip": "UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:48:20.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICreateUser.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:11:26.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUpdateUser.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:20:01.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "UsersApp.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "UsersApp.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAowEQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:20:57.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetAllCompaniesHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T08:48:48.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IDeleteCompany.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T09:00:43.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DeleteCompanyHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAzwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:00:40.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAzwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:58:58.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CompaniesController.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\CompaniesController.cs",
-              "RelativeDocumentMoniker": "UsersApp.Api\\Controllers\\CompaniesController.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\CompaniesController.cs",
-              "RelativeToolTip": "UsersApp.Api\\Controllers\\CompaniesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T11:21:44.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "UsersApp.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.json",
-              "RelativeToolTip": "UsersApp.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-29T10:07:12.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ExternalUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\External\\ExternalUserService.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\External\\ExternalUserService.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\External\\ExternalUserService.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\External\\ExternalUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:18:11.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IImportUsers.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:27:40.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ImportUsersHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T17:28:04.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IGetAllCompanies.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:32:07.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 3,
               "Title": "IGetCompanyID.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IGetCompanyID.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\IGetCompanyID.cs",
@@ -684,59 +379,85 @@
               "RelativeToolTip": "UsersApp.Application\\UseCases\\ICompanies\\IGetCompanyID.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:33:01.678Z"
+              "WhenOpened": "2025-11-26T14:33:01.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IDeactivateUser.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:21:47.239Z"
+              "DocumentIndex": 6,
+              "Title": "UsersApp.Api.http",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.http",
+              "RelativeDocumentMoniker": "UsersApp.Api\\UsersApp.Api.http",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.http",
+              "RelativeToolTip": "UsersApp.Api\\UsersApp.Api.http",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-29T10:19:08.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IDeleteUser.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
+              "DocumentIndex": 7,
+              "Title": "UsersApp.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.csproj",
+              "RelativeDocumentMoniker": "UsersApp.Api\\UsersApp.Api.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.csproj",
+              "RelativeToolTip": "UsersApp.Api\\UsersApp.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T10:25:44.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UsersApp.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UsersApp.Api\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:23:24.29Z"
+              "WhenOpened": "2025-11-29T11:20:57.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IActivateUser.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UsersApp.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.Development.json",
+              "RelativeToolTip": "UsersApp.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T09:21:02.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\Repositories\\Users\\UserRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAABDwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:20:59.001Z"
+              "WhenOpened": "2025-11-28T12:36:55.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "UsersApp.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T13:20:40.958Z"
+              "WhenOpened": "2025-11-28T11:31:59.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 12,
               "Title": "CompanyConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Configurations\\Companies\\CompanyConfiguration.cs",
               "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Configurations\\Companies\\CompanyConfiguration.cs",
@@ -748,91 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "GetAllUsersHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
-              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T16:49:52.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ICompanyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
-              "RelativeDocumentMoniker": "UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
-              "RelativeToolTip": "UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAzwAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:27:52.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ICompanyService.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\ICompanyService.cs",
-              "RelativeDocumentMoniker": "UsersApp.Application\\Interfaces\\ICompanyService.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\ICompanyService.cs",
-              "RelativeToolTip": "UsersApp.Application\\Interfaces\\ICompanyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:08:31.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DapperConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T14:39:30.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UsersDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:23:36.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CompaniesDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:21:41.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "CompanyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAIBTwEcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:56:09.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 13,
               "Title": "Shemas.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Configurations\\Shemas.cs",
               "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Configurations\\Shemas.cs",
@@ -844,67 +481,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
-              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Configurations\\Users\\UserConfiguration.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAIBTwDsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Contexts\\Users\\UsersDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:31:59.049Z"
+              "WhenOpened": "2025-11-28T12:23:36.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "UsersApp.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UsersApp.Application.csproj",
-              "RelativeDocumentMoniker": "UsersApp.Application\\UsersApp.Application.csproj",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UsersApp.Application.csproj",
-              "RelativeToolTip": "UsersApp.Application\\UsersApp.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T11:57:45.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Companies\\Company.cs",
-              "RelativeDocumentMoniker": "UsersApp.Domain\\Entities\\Companies\\Company.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Companies\\Company.cs",
-              "RelativeToolTip": "UsersApp.Domain\\Entities\\Companies\\Company.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAEBXwBkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:07:57.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ValidationItems.User.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
-              "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
-              "RelativeToolTip": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
+              "DocumentIndex": 15,
+              "Title": "DapperConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Dapper\\DapperConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:22:13.947Z"
+              "WhenOpened": "2025-11-28T14:39:30.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ValidationItems.Company.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
-              "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
-              "RelativeToolTip": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA3wBoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\DI\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:19:20.156Z"
+              "WhenOpened": "2025-11-28T19:58:58.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 17,
+              "Title": "ExternalUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\External\\ExternalUserService.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\External\\ExternalUserService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\External\\ExternalUserService.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\External\\ExternalUserService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA8wFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:18:11.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "UsersApp.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj",
               "RelativeDocumentMoniker": "UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj",
@@ -916,7 +541,414 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersApp.Api",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.csproj",
+              "RelativeDocumentMoniker": "UsersApp.Api\\UsersApp.Api.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\UsersApp.Api.csproj",
+              "RelativeToolTip": "UsersApp.Api\\UsersApp.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T10:26:40.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Users\\User.cs",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\Entities\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Users\\User.cs",
+              "RelativeToolTip": "UsersApp.Domain\\Entities\\Users\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:43:16.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IImportUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IImportUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:27:40.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\UpdateUserHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAjwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:35:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "UsersApp.Domain\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:27:40.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\DeleteUserHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:20:40.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeactivateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\DeactivateUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:16:40.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateCompanyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Companies\\UpdateCompanyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:49:00.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\CreateUserHandler.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:37:12.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICreateCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\ICompanies\\ICreateCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:30:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompanyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Companies\\CompanyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:49:20.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "RelativeToolTip": "UsersApp.Application\\DTOs\\Users\\UserResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:48:20.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICreateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\ICreateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:11:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IUpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:20:01.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllCompaniesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\GetAllCompaniesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:48:48.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDeleteCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\ICompanies\\IDeleteCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:00:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteCompanyHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Companies\\DeleteCompanyHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T11:00:40.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "UsersApp.Api\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "UsersApp.Api\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T11:21:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "UsersApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Api\\appsettings.json",
+              "RelativeToolTip": "UsersApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T10:07:12.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ImportUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\ImportUsersHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:28:04.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGetAllCompanies.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\ICompanies\\IGetAllCompanies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:32:07.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDeactivateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IDeactivateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:21:47.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDeleteUser.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IDeleteUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:23:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IActivateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\IUsers\\IActivateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:20:59.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "UsersApp.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:20:40.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetAllUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
+              "RelativeToolTip": "UsersApp.Application\\UseCases\\Users\\GetAllUsersHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:49:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
+              "RelativeToolTip": "UsersApp.Domain\\Repositories\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAzwAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:27:52.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "UsersApp.Application\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:08:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CompaniesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\Database\\Contexts\\Companies\\CompaniesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:21:41.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
+              "RelativeToolTip": "UsersApp.Infrastructure\\Repositories\\Companies\\CompanyRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIBTwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:56:09.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UsersApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UsersApp.Application.csproj",
+              "RelativeDocumentMoniker": "UsersApp.Application\\UsersApp.Application.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UsersApp.Application.csproj",
+              "RelativeToolTip": "UsersApp.Application\\UsersApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T11:57:45.527Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 50,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Companies\\Company.cs",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\Entities\\Companies\\Company.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Entities\\Companies\\Company.cs",
+              "RelativeToolTip": "UsersApp.Domain\\Entities\\Companies\\Company.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAEBXwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:07:57.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ValidationItems.User.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
+              "RelativeToolTip": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:22:13.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ValidationItems.Company.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
+              "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
+              "RelativeToolTip": "UsersApp.Domain\\Common\\Validation\\ValidationItems\\ValidationItems.Company.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:19:20.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "UsersApp.Infrastructure",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj",
               "RelativeDocumentMoniker": "UsersApp.Infrastructure\\UsersApp.Infrastructure.csproj",
@@ -927,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "ActivateUserHandler.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\ActivateUserHandler.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\ActivateUserHandler.cs",
@@ -939,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "IGetAllUsers.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IGetAllUsers.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IGetAllUsers.cs",
@@ -951,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "GetCompanyIDHandler.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Companies\\GetCompanyIDHandler.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Companies\\GetCompanyIDHandler.cs",
@@ -963,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "UsersApp.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\UsersApp.Domain.csproj",
               "RelativeDocumentMoniker": "UsersApp.Domain\\UsersApp.Domain.csproj",
@@ -975,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "CreateCompanyRequest.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\CreateCompanyRequest.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\CreateCompanyRequest.cs",
@@ -987,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "CreateCompanyResponse.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Companies\\CreateCompanyResponse.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Companies\\CreateCompanyResponse.cs",
@@ -999,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "GetUserIDHandler.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\Users\\GetUserIDHandler.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\Users\\GetUserIDHandler.cs",
@@ -1011,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "UpdateUserResponse.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\UpdateUserResponse.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\UpdateUserResponse.cs",
@@ -1023,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "CreateUserResponse.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\CreateUserResponse.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\CreateUserResponse.cs",
@@ -1035,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "IGetUserID.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\UseCases\\IUsers\\IGetUserID.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\UseCases\\IUsers\\IGetUserID.cs",
@@ -1047,7 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "UpdateUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\UpdateUserRequest.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\UpdateUserRequest.cs",
@@ -1059,7 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "CreateUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Application\\DTOs\\Users\\CreateUserRequest.cs",
               "RelativeDocumentMoniker": "UsersApp.Application\\DTOs\\Users\\CreateUserRequest.cs",
@@ -1071,7 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "DomainService.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Services\\DomainService.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Services\\DomainService.cs",
@@ -1083,7 +1115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "ValidationType.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationType.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationType.cs",
@@ -1095,7 +1127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "ValidationSeverity.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationSeverity.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationSeverity.cs",
@@ -1107,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "ValidationResult.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationResult.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationResult.cs",
@@ -1119,7 +1151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "ValidationItem.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Validation\\ValidationItem.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Validation\\ValidationItem.cs",
@@ -1131,7 +1163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\Common\\Model\\Result.cs",
               "RelativeDocumentMoniker": "UsersApp.Domain\\Common\\Model\\Result.cs",
@@ -1143,7 +1175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "UsersApp.Domain",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\Internship-4\\UsersApp.Domain\\UsersApp.Domain.csproj",
               "RelativeDocumentMoniker": "UsersApp.Domain\\UsersApp.Domain.csproj",

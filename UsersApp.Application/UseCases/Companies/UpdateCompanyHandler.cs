@@ -36,7 +36,6 @@ namespace UsersApp.Application.UseCases.Companies
             foreach (var item in domainValidation.Items)
                 validationResult.AddValidationItem(item);
 
-            // 3️⃣ Provjera postoji li već kompanija s tim imenom
             if (await _companyRepository.NameExistsAsync(request.Name) && request.Name != company.Name)
             {
                 validationResult.AddValidationItem(new ValidationItem

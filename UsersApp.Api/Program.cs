@@ -41,7 +41,8 @@ builder.Services.AddScoped<IDeactivateUser, DeactivateUserHandler>();
 builder.Services.AddScoped<IDeleteUser, DeleteUserHandler>();
 builder.Services.AddScoped<IImportUsers, ImportUsersHandler>();
 
-
+builder.Services.AddScoped<ICreateCompany, CreateCompanyHandler>();
+builder.Services.AddScoped<IUpdateCompany, UpdateCompanyHandler>();
 builder.Services.AddScoped<IGetAllCompanies, GetAllCompaniesHandler>();
 builder.Services.AddScoped<IGetCompanyID, GetCompanyIDHandler>();
 builder.Services.AddScoped<IDeleteCompany, DeleteCompanyHandler>();
@@ -60,7 +61,11 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "UsersApp API V1");
+        c.RoutePrefix = string.Empty; 
+    });
 }
 
 app.UseHttpsRedirection();
