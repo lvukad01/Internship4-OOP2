@@ -1,6 +1,8 @@
-﻿using UsersApp.Application.DTOs.Users;
+﻿using UsersApp.Application.DTOs.Companies;
+using UsersApp.Application.DTOs.Users;
 using UsersApp.Application.Interfaces;
 using UsersApp.Application.UseCases.IUsers;
+using UsersApp.Domain.Common.Model;
 using UsersApp.Domain.Common.Validation;
 using UsersApp.Domain.Common.Validation.ValidationItems;
 using UsersApp.Domain.Entities.Companies;
@@ -24,7 +26,7 @@ namespace UsersApp.Application.UseCases.Users
             _companyRepository = companyRepository;
         }
 
-        public async Task<CreateUserResponse> ExecuteAsync(CreateUserRequest request)
+        public async Task<Result<CreateUserResponse>> ExecuteAsync(CreateUserRequest request)
         {
             var password = Guid.NewGuid().ToString();
             var user = new User(
@@ -89,11 +91,14 @@ namespace UsersApp.Application.UseCases.Users
 
             await _userRepository.AddAsync(user);
 
-            return new CreateUserResponse
+
+            var response= new CreateUserResponse
             {
                 UserId = user.Id,
                 Message = "Korisnik uspješno kreiran."
             };
+            return new Result<CreateUserResponse>(response, validationResult);
+
         }
     }
 

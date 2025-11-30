@@ -1,5 +1,7 @@
-﻿using UsersApp.Application.DTOs.Users;
+﻿using UsersApp.Application.DTOs.Companies;
+using UsersApp.Application.DTOs.Users;
 using UsersApp.Application.UseCases.IUsers;
+using UsersApp.Domain.Common.Model;
 using UsersApp.Domain.Repositories;
 
 namespace UsersApp.Application.UseCases.Users
@@ -13,7 +15,7 @@ namespace UsersApp.Application.UseCases.Users
             _userRepository = userRepository ?? throw new ArgumentNullException(nameof(userRepository));
         }
 
-        public async Task<UpdateUserResponse> ExecuteAsync(UpdateUserRequest request, int id)
+        public async Task<Result<UpdateUserResponse>> ExecuteAsync(UpdateUserRequest request, int id)
         {
             var user = await _userRepository.GetByIdAsync(id);
             if (user == null)
@@ -43,10 +45,13 @@ namespace UsersApp.Application.UseCases.Users
 
             await _userRepository.UpdateAsync(user);
 
-            return new UpdateUserResponse
+            var response= new UpdateUserResponse
             {
                 UserId = user.Id
             };
+            return new Result<UpdateUserResponse>(response, validation);
+
+
         }
     }
 }

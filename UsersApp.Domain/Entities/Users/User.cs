@@ -21,9 +21,13 @@ namespace UsersApp.Domain.Entities.Users
         public string Website { get; private set; }
         public const int WebsiteMaxLength = 100;
         public string Password { get; private set; }
-        public bool IsActive { get; private set; } = true; public DateTime CreatedAt { get; private set; }
-        public DateTime UpdatedAt { get; private set; }
+        public bool IsActive { get; private set; } = true; 
+        public DateTime CreatedAt { get; private set; }=DateTime.Now;
+        public DateTime UpdatedAt { get; private set; }=DateTime.Now;
 
+        public User()
+        {
+        }
         public User(string name, string username, string email, string addressStreet, string addressCity, decimal geoLat, decimal geoLng, string website, string password)
         { 
             Name = name; 
